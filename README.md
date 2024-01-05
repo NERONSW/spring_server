@@ -1,1 +1,1 @@
-# spring_server
+# Simple server developed using java Springboot.
